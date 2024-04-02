@@ -1,0 +1,97 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    color: rgb(10, 2, 17);
+    text-decoration: underline;
+    
+}
+.container{
+    width: 420px;
+    height: 500px;
+    background-color: rgb(2, 11, 3);
+    margin: auto;
+    border-style: outset;
+    border-radius: 30px;
+    padding: 10px;
+}
+p{
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#screen{
+    width: 380px;
+    height: 70px;
+    margin: 1px;
+    font-size: 4rem;
+    text-align: right;
+    background-color: rgb(145, 203, 239);
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.button1{
+    width: 80px;
+    height: 60px;
+    background-color: rgb(57, 43, 43);
+    color: white;
+    border-radius: 10px;
+    margin: 10px;
+    font-size: 30px;
+}
+.oper{
+    width: 80px;
+    height: 60px;
+    background-color: rgb(150, 151, 154);
+    color: white;
+    border-radius: 10px;
+    margin: 10px;
+    font-size: 30px;
+
+}
+.res{
+    width: 80px;
+    height: 60px;
+    background-color: rgb(57, 43, 43);
+    color: white;
+    border-radius: 10px;
+    margin: 10px;
+    font-size: 30px;
+
+}
+.clear{
+    width: 80px;
+    height: 60px;
+    background-color: rgb(232, 35, 35);
+    color: white;
+    border-radius: 10px;
+    margin: 10px;
+    font-size: 30px;
+}
+.button1:hover{
+    border: 3px solid rgb(230, 230, 166)
+    
+    
+}
+.oper:hover{
+    border: 3px solid rgb(230, 230, 166)
+
+}
+.res:hover{
+    border: 3px solid rgb(230, 230, 166)
+}
+.clear:hover{
+    border: 3px solid rgb(230, 230, 166)
+}
+#screen:hover{
+    border: 3px solid rgb(230, 230, 166)
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+body{
+    background-image: url(/4.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
